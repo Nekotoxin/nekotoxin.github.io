@@ -37,6 +37,12 @@
 | 2022-09-05 | <a href=https://github.com/pycasbin/django-authorization/commit/706c7bd1626c7ce5bcc0ab1cb58c08d20ed30f8a target=_blank>fix: fix django-version (#10)</a> | ![badge](https://img.shields.io/badge/PR-Merged-blueviolet?stle=for-the-badge&logo=appveyor) |
 | 2022-09-08 | <a href=https://github.com/pycasbin/django-authorization/commit/02adeb3388c75b699db9dc1bc42eda1ed5d0679e target=_blank>fix: optimize schematic & add catalog (#11)</a> | ![badge](https://img.shields.io/badge/PR-Merged-blueviolet?stle=for-the-badge&logo=appveyor) |
 
+### django-authorization-example
+
+| Day | Title | Status | 
+| :--: | :------------: | :-------: | 
+| 2022-09-07 | <a href=https://github.com/pycasbin/django-authorization-example/commit/eb68022727eb60a203942dfa5ab7a4d4f3a2dbd4 target=_blank>feat: build example</a> | ![badge](https://img.shields.io/badge/PR-Merged-blueviolet?stle=for-the-badge&logo=appveyor) |
+
 ### django-orm-adapter
 
 | Day | Title | Status | 
